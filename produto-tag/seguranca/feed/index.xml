@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>segurança &#8211; SM SHOP</title>
+	<atom:link href="https://github.com/SamuelMedeirosA/test/produto-tag/seguranca/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/SamuelMedeirosA/test/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 May 2023 15:41:19 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://github.com/SamuelMedeirosA/test/wp-content/uploads/2023/02/SMshop-LOGO-512-64x64.png</url>
+	<title>segurança &#8211; SM SHOP</title>
+	<link>https://github.com/SamuelMedeirosA/test/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mini câmera HD de vigilância</title>
+		<link>https://github.com/SamuelMedeirosA/test/produto/mini-camera-hd-de-vigilancia/</link>
+					<comments>https://github.com/SamuelMedeirosA/test/produto/mini-camera-hd-de-vigilancia/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2023 01:08:03 +0000</pubDate>
+				<guid isPermaLink="false">https://github.com/SamuelMedeirosA/test/?post_type=product#038;p=343</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur lobortis diam, vitae ultrices turpis luctus sed. Maecenas sed fringilla elit. Duis placerat efficitur pretium. Sed dictum, lacus sit amet feugiat malesuada, libero ligula mollis nisl, nec cursus nunc neque ut mi. Fusce in ante id felis lacinia consectetur]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur lobortis diam, vitae ultrices turpis luctus sed. Maecenas sed fringilla elit. Duis placerat efficitur pretium. Sed dictum, lacus sit amet feugiat malesuada, libero ligula mollis nisl, nec cursus nunc neque ut mi. Fusce in ante id felis lacinia consectetur]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/SamuelMedeirosA/test/produto/mini-camera-hd-de-vigilancia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
